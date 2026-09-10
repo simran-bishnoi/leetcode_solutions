@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
