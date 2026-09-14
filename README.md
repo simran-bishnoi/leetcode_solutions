@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1004-max-consecutive-ones-iii](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0901-online-stock-span) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
