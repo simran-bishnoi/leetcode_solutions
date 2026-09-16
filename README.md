@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Simulation
 |  |
 | ------- |
@@ -107,4 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Math
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
