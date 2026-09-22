@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0496-next-greater-element-i](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
