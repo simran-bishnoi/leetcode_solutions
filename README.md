@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [1096-brace-expansion-ii](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -154,4 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
