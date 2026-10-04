@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0455-assign-cookies](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -168,5 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [1096-brace-expansion-ii](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
