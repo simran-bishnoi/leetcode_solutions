@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -202,4 +203,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
