@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2104-sum-of-subarray-ranges](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Simulation
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [1096-brace-expansion-ii](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/simran-bishnoi/leetcode_solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Two Pointers
 |  |
 | ------- |
